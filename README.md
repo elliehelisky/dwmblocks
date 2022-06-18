@@ -1,3 +1,6 @@
+# Ellie Build of DWMBlocks
+Heavily relies on Font Awesome
+
 # dwmblocks
 Modular status bar for dwm written in c.
 # usage

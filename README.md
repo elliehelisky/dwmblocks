@@ -1,7 +1,10 @@
 # Ellie's Distro-Agnostic Build of DWMBlocks
 1. Best if used with elh-dwm
 2. Font Awesome is used for Icons
-3. Replace "Chicago" with local city
+3. Uses pamixer for volume display
+4. Replace "Chicago" with local city
+## Compiled on Gentoo Linux
+I built dwmblocks on Gentoo Linux, but I have tested it on many other distros and it seems to work fine.
 
 # dwmblocks
 Modular status bar for dwm written in c.

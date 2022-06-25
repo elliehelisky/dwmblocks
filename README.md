@@ -1,8 +1,3 @@
-# Ellie's Distro-Agnostic Build of DWMBlocks
-1. Best if used with elh-dwm
-2. Font Awesome is used for Icons
-3. Replace "Chicago" with local city
-
 # dwmblocks
 Modular status bar for dwm written in c.
 # usage
